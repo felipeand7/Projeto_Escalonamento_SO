@@ -43,6 +43,12 @@ int main() {
 // Insere processo na lista circular
 void inserir_processo(processo **inicio, int id, double tempo) {
     processo *novo = (processo*)malloc(sizeof(processo));
+    if (novo == NULL)
+    {
+        printf("sem memória, reinicie o programa e tente novamente");
+        exit(1);
+    }
+    
     novo->id = id;
     novo->tempo_execucao = tempo;
     novo->tempo_original = tempo;
