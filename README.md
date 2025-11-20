@@ -4,8 +4,7 @@ Este é um projeto da disciplina de **Sistemas Operacionais** do curso de Análi
 
 O grupo é composto por:
 
-*1 - FCFS*: Felipe Andrade dos Santos Carvalho</br>
-*aluno2* </br>
-*aluno3* </br>
-*aluno4* </br>
-
+_1 - FCFS_: Felipe Andrade dos Santos Carvalho</br>
+_2 - SJF_: Marcos Henrique Brito Souza </br>
+_3 - RR_: Oliveira: Daniel da Silva Oliveira </br>
+_4 - PRIORITY_ : Arthur Guimarães Miranda Prates </br>
